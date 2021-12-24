@@ -1,3 +1,27 @@
+This is the my practice on [rustlings 4.6.0](https://github.com/rust-lang/rustlings/releases/tag/4.6.0).
+
+Tricky exercises:
+- variables5
+- variables6
+- functions5
+- move_semantics2
+- move_semantics3
+- primitive_types2: `'f'` is a `char`, `"f"` is a `&str`. [ref](https://doc.rust-lang.org/stable/book/ch03-02-data-types.html#the-character-type).
+- primitive_types4: convert array to slice.
+- primitive_types5: destructure tuple
+- primitive_types6: access element from tuple
+- structs1: declare and init c-like, tuple and unit-like struct. [ref](https://doc.rust-lang.org/book/ch05-01-defining-structs.html)
+- structs2: create instance from other instances and update. [ref](https://doc.rust-lang.org/stable/book/ch05-01-defining-structs.html#creating-instances-from-other-instances-with-struct-update-syntax)
+- enums2: define complex enums
+- enums3: use complex enums
+- modules2: re-export use
+- quiz2: convert between `&str` and `String`
+- errors2: propagate `Err`
+- errors5: propagate `Err` of any type
+- errors6: convert `Err`
+- generics3: Generic and Trait example
+
+----
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-108-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
